@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anson-poon/SimpleGreetingApp/assets/75619539/91acaaeb-cdd6-46d4-9cf9-74d629c18333' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
