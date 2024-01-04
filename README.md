@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Debugging the app to make it launch successfully in the emulator was the biggest challenged encountered in this prework. At a point, certain library has version exceeding the supported API of the Pixel emulator causing it to crash at launch. Spending some time to modify the dependencies, downgrading the version of the library fixed the issue.
+Debugging the app to make it launch successfully in the emulator was the biggest challenge encountered in this prework. At a point, certain library has version exceeding the supported API of the Pixel emulator causing it to crash at launch. Spending some time to modify the dependencies, downgrading the version of the library fixed the issue.
 
 
 ## License
